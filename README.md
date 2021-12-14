@@ -28,6 +28,7 @@
     <img src="screenshots/5.png" width="600" height="400">
     
     Presentation Video Link:
+    https://youtu.be/29q-J6ex-8g
    
     
  3. To configure this project users need a basic Web Browser in PC or Mobile.
